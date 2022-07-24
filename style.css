@@ -1,0 +1,36 @@
+/* Changing the Image slider Background Color */
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+.carousel-inner button{
+    background-color: #ff418c;
+    border-radius: 10px;
+    border: none;
+    width: 130px;
+}
+
+.carousel-inner .image-slider-price{
+    color: #ff418c;
+}
+
+
+/* Changing the Category Section width */
+.categories img{
+    margin-left: 30px;
+}
+
+
+#shoe-section button, #bagpack-section button{
+    background-color: #ff418c;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 25px;
+}
+
+
+/* Shoe Section CSS */
+.panda-text-danger{
+    color:#ff418c ;
+}
+
